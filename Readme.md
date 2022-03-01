@@ -19,4 +19,14 @@ Lets say there's a centralized network and many nodes or computers or devices ar
 # **So What we know this Far of our discussion?**
 
 - [x] What is Blockchain
-- [ ] What is Ledger in Blockchain
+- [x] What is Ledger in Blockchain
+- [x] What is Centralized and Decentralized System
+- [x] Why we should trust the decentralized System
+- [ ] Why use Blockchain 
+But the real question is *Why We should use Blockchain?*
+
+## Why use the Blockchain?
+- Decentralized leads to a trustless system
+- No middle men and no fees
+- Highly secure and no central point of failure
+- Dependable data
