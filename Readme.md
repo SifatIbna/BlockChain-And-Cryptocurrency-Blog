@@ -59,3 +59,8 @@ To prevent this problem cryptocurrency uses cryptography to add a layer of secur
 Uses Public and Private key pair to ensure security. \
 A user uses private to decrypt the message or the transaction and on the other side the receiver uses the public key to decrypt the transaction. \
 Using this method ensures high security to the cryptocurrecy system.
+
+### Wallets 🧱
+- Objects that store the private and public key of an individual
+- The public key is the address of the wallet
+- And the stored private key the wallets are used to help generate the signatures that sign transactional data
