@@ -49,9 +49,10 @@ To prevent this problem cryptocurrency uses cryptography to add a layer of secur
 <p>
     So we learned that
 
-    - [x] using blockchain is secure
-    - [x] uses cryptography to prevent temparing
-    - [x] uses cryptography to generate digital signatures
+- [x] using blockchain is secure
+- [x] uses cryptography to prevent temparing
+- [x] uses cryptography to generate digital signatures
+
 </p>
 
 ### Digital Signatures
