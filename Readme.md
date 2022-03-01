@@ -18,6 +18,5 @@ Lets say there's a centralized network and many nodes or computers or devices ar
 
 # **So What we know this Far of our discussion?**
 
-- [ x ] What is Blockchain :joy:
+- [x] What is Blockchain
 - [ ] What is Ledger in Blockchain
-- 
