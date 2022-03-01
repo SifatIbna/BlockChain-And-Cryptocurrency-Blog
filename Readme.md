@@ -64,3 +64,17 @@ Using this method ensures high security to the cryptocurrecy system.
 - Objects that store the private and public key of an individual
 - The public key is the address of the wallet
 - And the stored private key the wallets are used to help generate the signatures that sign transactional data
+
+### Mining ⛏
+- Transactions are temporary "unconfirmed". What I mean is when people submit transactions to the cryptocurrency blockchain network, it takes a little time for those transactions to be confirmed and added to the blockchain. When transactions had been sent to the network but not included in the blockchain yet we call those transactions unconfirmed.
+- Miners will take these group of transactions, include them by solving a **"proof of work"** algorithm.
+    - Difficult to solve, and conputationally expensive
+    - Once solved, the miner can add the block to the chain
+    - Miners are rewarded for adding a block to the chain
+    - The difficulty can adjust to control the rate of new blocks coming in.
+
+### Bitcoin 👛
+- The First Decentralized cryptocurrecy in 2009
+- Reward for **Proof of Work**
+- A virtual Currency
+
